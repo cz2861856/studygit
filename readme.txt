@@ -5,3 +5,4 @@ Git track changes of files
 Creating a new branch is quick!
 Creating a new branch is quick and simple.
 User NO FAST FORWARD --no--ff.
+fix 102 BUG.
